@@ -2,5 +2,5 @@ A new file in DemoATC
 
 by khan
 
-A Short History of Git
-	starts here...
+A Long History of Git
+	starts here..
